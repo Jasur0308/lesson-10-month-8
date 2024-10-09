@@ -5,7 +5,6 @@ const AdminDashboard = () => {
     <AdminLayout>
       <div className="p-6 bg-white rounded-lg shadow-md">
         <h1 className="text-3xl font-bold text-gray-800 mb-4">Admin Dashboard</h1>
-        <p className="text-gray-600 mb-4">Welcome to the admin dashboard.</p>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           <div className="bg-blue-100 p-4 rounded-lg shadow">
             <h2 className="text-lg font-semibold text-blue-800">Total Products</h2>
